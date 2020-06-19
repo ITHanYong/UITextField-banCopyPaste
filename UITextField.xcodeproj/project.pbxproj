@@ -14,6 +14,7 @@
 		04C39808221EC307006F8507 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C39806221EC307006F8507 /* LaunchScreen.storyboard */; };
 		04C3980B221EC307006F8507 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C3980A221EC307006F8507 /* main.m */; };
 		04D9CEDC221FB5BE00540214 /* UITextField+SET.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D9CEDB221FB5BE00540214 /* UITextField+SET.m */; };
+		447D7368249CB8CA00CD3472 /* MenuTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 447D7367249CB8CA00CD3472 /* MenuTextField.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		04C3980A221EC307006F8507 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04D9CEDA221FB5BE00540214 /* UITextField+SET.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+SET.h"; sourceTree = "<group>"; };
 		04D9CEDB221FB5BE00540214 /* UITextField+SET.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+SET.m"; sourceTree = "<group>"; };
+		447D7366249CB8CA00CD3472 /* MenuTextField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuTextField.h; sourceTree = "<group>"; };
+		447D7367249CB8CA00CD3472 /* MenuTextField.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTextField.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				04C397FF221EC2F9006F8507 /* ViewController.m */,
 				04D9CEDA221FB5BE00540214 /* UITextField+SET.h */,
 				04D9CEDB221FB5BE00540214 /* UITextField+SET.m */,
+				447D7366249CB8CA00CD3472 /* MenuTextField.h */,
+				447D7367249CB8CA00CD3472 /* MenuTextField.m */,
 				04C39801221EC2F9006F8507 /* Main.storyboard */,
 				04C39804221EC307006F8507 /* Assets.xcassets */,
 				04C39806221EC307006F8507 /* LaunchScreen.storyboard */,
@@ -147,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04C39800221EC2F9006F8507 /* ViewController.m in Sources */,
+				447D7368249CB8CA00CD3472 /* MenuTextField.m in Sources */,
 				04C3980B221EC307006F8507 /* main.m in Sources */,
 				04D9CEDC221FB5BE00540214 /* UITextField+SET.m in Sources */,
 				04C397FD221EC2F9006F8507 /* AppDelegate.m in Sources */,
